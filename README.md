@@ -28,5 +28,5 @@ We are provided with a training set and a test set of images of plant seedlings 
 - Sugar beet
 
 ## Key Takeaways
--- Artificial Intelligence can impact numerous industries and ways that are unimaginable and can impact the world such a positive way
--- Using CNN’s and actually implementing it within agriculture can lower costs and help save plants thus produce more food
+- Artificial Intelligence can impact numerous industries and ways that are unimaginable and can impact the world such a positive way
+- Using CNN’s and actually implementing it within agriculture can lower costs and help save plants thus produce more food
